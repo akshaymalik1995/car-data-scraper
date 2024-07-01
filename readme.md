@@ -2,7 +2,7 @@
 
 ## Overview
 
-Car Data Scraper is a Python application designed to extract and compile detailed information about cars from (cardekho)[https://cardekho.com]. It specifically targets car and car specs pages to retrieve essential data such as the car's name and price. This tool is invaluable for data analysts, car enthusiasts, or anyone interested in compiling an extensive database of car information.
+Car Data Scraper is a Python application designed to extract and compile detailed information about cars from [cardekho](https://cardekho.com). It specifically targets car and car specs pages to retrieve essential data such as the car's name and price. This tool is invaluable for data analysts, car enthusiasts, or anyone interested in compiling an extensive database of car information.
 
 ## Features
 
